@@ -1,0 +1,22 @@
+What’s your favorite video game and why?
+	•	My favourite video game was Super Monkey Ball on the Nintendo Game Cube! Super Monkey Ball was the first game I remember playing with friends growing up, often times in the basement of my childhood house. I remember it feeling like the most advanced technology in the world!
+
+What gets your blood pumping?
+I have two passions: Exploration and aviation
+
+	•	 I love traveling, hiking, camping, experiencing new cultures, meeting new people, and making memories in places I've never been. I want to learn as much about earth as possible! 
+	•	I come from a large family with a long history in aviation. My mother was on a flight crew in the Air Force, my brother is a pilot and aircraft sales rep, my grandpa was a corporate pilot for 30 years, my uncle replaced my grandpa in that same job, and many of my cousins work in the industry and fly recreationally in their free time. I have always been impressed by advancements in technology in the aviation field. It's incredible what modern aircraft are capable of that just a few years prior were considered impossible. I love pushing the limits in aviation and I want to do so while making a positive impact on the world. 
+
+What are you a snob about?
+	•	I would say I am definitely a snob about my taste in folk/country music. I love discovering new artists that are not super well known. There are so many talented people in the folk genre that are not household names!
+
+Name a way you changed your environment to make it work for you.
+	•	The first thing that comes to mind is my morning ritual! My phone charges on the opposite side of my room on my night stand, out of immediate reach. For a very important reason, it sits inside of a little metal boat. When my alarm goes off in the morning, the most irritating noise in the world is amplified by the cupping of the metal boat and the vibration from my phone on metal hums throughout my tiny New York City room. This forces me to get up and turn it off quickly. My nightstand is also right next to my minifridge where I have a cold bottle of water waiting. I originally started this set up because I had a bad habit of checking texts and emails in bed first thing in the morning and I believed it was best to remove the phone from the morning routine. I now check my phone on the subway on the way to work so mission accomplished! 
+
+
+Balloon's altitude profile: 
+I am certain that it took off on June 2nd at 01:57, as it shows a steep climb in altitude. Altitude continued to increase and decrease in a few notable but non-aggressive instances before holding consistent altitude from 12pm to midnight. The following day saw more spikes in altitude but consistently climbed until it began slowly decreasing to land around 15:00. 
+
+For the first half of the flight, it looks like the “downlink controller constants” line is possibly programmed to repeat the same controls, possibly automated, though I am unsure. It also looks like the green and purple lines represent the ideal operational altitudes. 
+
+What I don't understand the relationships between the lines. I would have expected to see a strong correlation between venting, ballast, and altitude. The lack of consistent correlation or inverse correlation could suggest changing atmospheric conditions. I also do not understand exactly what downlink ballast time is referencing especially because it increases when altitude decreases. 
