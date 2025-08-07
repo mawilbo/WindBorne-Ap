@@ -20,3 +20,7 @@ I am certain that it took off on June 2nd at 01:57, as it shows a steep climb in
 For the first half of the flight, it looks like the “downlink controller constants” line is possibly programmed to repeat the same controls, possibly automated, though I am unsure. It also looks like the green and purple lines represent the ideal operational altitudes. 
 
 What I don't understand the relationships between the lines. I would have expected to see a strong correlation between venting, ballast, and altitude. The lack of consistent correlation or inverse correlation could suggest changing atmospheric conditions. I also do not understand exactly what downlink ballast time is referencing especially because it increases when altitude decreases. 
+
+
+Most important thing on my desk:
+The most important thing on my desk to me is my water bottle! Sure, my computer is much more useful for important work, but my water bottle comes with me everywhere I go regardless of work! If I'm going hiking, my water bottle comes with me. If I'm heading out for a long day in the field, my water bottle comes with me. If I am visiting my parents in Minnesota, my water bottle comes with me. I have had it for a few years now, and I decorate it with stickers from places I go. It's almost like a scrap book that holds both memories and water! 
